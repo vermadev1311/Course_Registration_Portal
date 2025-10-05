@@ -1,0 +1,22 @@
+=== Course Registration System Report ===
+Generated On: 2025-10-05 18:53:42
+------------------------------------------
+Total Registered Students : 17
+Total Courses Offered     : 18
+Total Enrollments         : 13
+
+--- Enrollment per Course ---
+Course ID C101 -> 2 students
+Course ID C103 -> 1 students
+Course ID C104 -> 1 students
+Course ID C107 -> 1 students
+Course ID C108 -> 1 students
+Course ID C109 -> 1 students
+Course ID C110 -> 1 students
+Course ID C112 -> 1 students
+Course ID C115 -> 1 students
+Course ID c101 -> 1 students
+Course ID c105 -> 1 students
+Course ID c108 -> 1 students
+------------------------------------------
+End of Report

@@ -1,0 +1,18 @@
+id,name,email,password
+S1001,Raj,raj123@gmail.com,1234
+S1002,Alice,alice@example.com,abcd
+S1003,Bob,bob@example.com,qwerty
+S1004,Charlie,charlie@example.com,pass123
+S1005,Diana,diana@example.com,xyz789
+S1006,Edward,edward@example.com,edward12
+S1007,Fiona,fiona@example.com,fiona2023
+S1008,George,george@example.com,georgepw
+S1009,Helen,helen@example.com,helen456
+S1010,Ian,ian@example.com,ianpass
+S1011,Jenny,jenny@example.com,jenny789
+S1012,Kevin,kevin@example.com,kevin123
+S1013,Linda,linda@example.com,linda456
+S1014,Michael,michael@example.com,mikepw
+S1015,Nina,nina@example.com,nina999
+S1016,Oscar,oscar@example.com,oscar321
+S1000,DEV VERMA,devverma123@gmail.com,dev123

@@ -1,0 +1,11 @@
+=== Enrollment Slip ===
+Student Name : DEV VERMA
+Student ID   : S1000
+Email        : devverma123@gmail.com
+Generated On : 2025-10-05 17:44:19
+-------------------------------------------
+Course ID   | Course Title
+-------------------------------------------
+C101        | Data Structure
+-------------------------------------------
+Signature: ________________________________

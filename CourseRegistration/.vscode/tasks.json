@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build app",
+            "type": "shell",
+            "command": "C:\\MinGW\\bin\\g++.exe",
+            "args": [
+                "-std=c++17",
+                "src/main.cpp",
+                "-Iinclude",
+                "-o",
+                "build/app.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}
+

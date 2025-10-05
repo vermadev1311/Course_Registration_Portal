@@ -1,0 +1,19 @@
+course_id,title,credits,faculty,seats
+C101,Data Structure,4,Ravi Sastri,100
+C102,Computer Network,4,Rohit Sharma,50
+C103,Engg Drawing,0,Anurag Jha,1
+C104,Operating Systems,3,Meena Kumari,60
+C105,Database Systems,3,Suresh Kumar,70
+C106,Software Engineering,3,Anita Desai,40
+C107,Algorithms,4,Sunil Verma,80
+C108,Artificial Intelligence,3,Ramesh Gupta,30
+C109,Web Development,3,Neha Singh,45
+C110,Mobile Computing,3,Pankaj Jain,35
+C111,Cloud Computing,3,Deepak Malhotra,40
+C112,Machine Learning,4,Alka Sharma,50
+C113,Data Mining,3,Manish Tiwari,25
+C114,Computer Graphics,3,Rahul Mehta,30
+C115,Embedded Systems,3,Sonal Kapoor,20
+C116,Cyber Security,4,Rajesh Patel,60
+C117,Distributed Systems,3,Anjali Verma,40
+C101,c201,2,dev,0
