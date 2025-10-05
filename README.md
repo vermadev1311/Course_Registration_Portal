@@ -78,7 +78,7 @@ CourseRegistration/
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/CourseRegistrationPortal.git
+git clone https://github.com/vermadev1311/Course_Registration_Portal.git
 cd CourseRegistrationPortal
 ```
 
